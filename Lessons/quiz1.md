@@ -1,0 +1,15 @@
+# Quiz 1 Study Guide
+- Variables
+    - Using the assignment operator to create variables
+    - Be able to write code that uses variables
+- Reassigning variables
+- Data types
+    - Focus on strings, bools, float, and ints
+    - Be able to recognize different datatypes based on values
+- Print and Input
+    - Be able to explain what print() and input() do
+    - Be able to write code that uses print() and input()
+- Functions
+    - Be able to identify the components of a function
+    - Be able to analyze what a function call will do
+    - Be able to write and call a function given a written description
