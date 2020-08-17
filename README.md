@@ -25,9 +25,11 @@ By the end of the course, you will be able to ...
 
 **Class Times:** 
 
-Section A & B: Tuesday and Thursday at 9:30–12:15pm (14 class sessions)
+* Section A: Tuesday and Thursday at 9:30–12:15pm PST (14 class sessions)
 
-Section C: Tuesday and Thursday at 2:30–5:15pm (14 class sessions)
+* Section B: Tuesday and Thursday at 2:30–5:15pm PST (14 class sessions)
+
+* Section C: Tuesday and Thursday at 9:30–12:15pm PST (14 class sessions)
 
 | Class |          Date          |                 Topics                  |    Assignments & Quizzes    |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
