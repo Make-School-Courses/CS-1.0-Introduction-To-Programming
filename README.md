@@ -33,19 +33,19 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |    Assignments & Quizzes    |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Thu, Aug 20               | [The Adventure Begins] & [Variables] | 
-|  2 |  Tue, Aug 25               | [Datatypes and Operations] |
-|  3 |  Thu, Aug 27               | [Print] & [Input] | [Custom Calculator]
-|  4 |  Tue, Sept 1               | [Functions] |
-|  5 |  Thu, Sept 3               | [Reading Errors] | [Quiz 1]
-|  6 |  Tue, Sept 8               | [Conditionals] |
-|  7 |  Thu, Sept 10               | [Pseudocode] & [Lists] |
-|  8 |  Tue, Sept 15              | [Loops] | [Chat Bot]
-|  9 |  Thu, Sept 17              | [Debugging] | [Quiz 2]
-| 10 |  Tue, Sept 22              | [File I/O] |
-| 11 |  Thu, Sept 24              | [Dictionaries] | [Poetry Slam]
-| 12 |  Tue, Sept 29              | [Code Quality] |
-| 13 |  Thu, Oct 1              | [Problem Solving] | [Quiz 3]
-| 14 |  Tue, Oct 6                | [Terminal] |
+|  2 |  Tue, Aug 25               | Datatypes and Operations |
+|  3 |  Thu, Aug 27               | Print & Input | Custom Calculator
+|  4 |  Tue, Sept 1               | Functions | Functions Tutorial
+|  5 |  Thu, Sept 3               | Reading Errors | Quiz 1
+|  6 |  Tue, Sept 8               | Conditionals |
+|  7 |  Thu, Sept 10               | Pseudocode & Lists |
+|  8 |  Tue, Sept 15              | Loops | Chat Bot
+|  9 |  Thu, Sept 17              | Debugging | Quiz 2
+| 10 |  Tue, Sept 22              | File I/O | Lists and Loops Tutorial
+| 11 |  Thu, Sept 24              | Dictionaries | Poetry Slam
+| 12 |  Tue, Sept 29              | Code Quality |
+| 13 |  Thu, Oct 1              | Problem Solving | Quiz 3
+| 14 |  Tue, Oct 6                | Terminal |
 
 
 [The Adventure Begins]: Lessons/adventure_begins.md
