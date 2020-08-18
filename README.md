@@ -91,7 +91,7 @@ To pass this course you must meet the following requirements:
 - Pass all quizzes with a score 70% or higher 
 - If an assignment or quiz is not passing you will have up to a week after your grade is received to retake and bring your score up to passing
 - Actively participate in class and abide by the attendance policy
-    - Your participation in in-class activities will be a part of your overall grade, each time your participate in the majority of day's activities you will earn a point, you must earn at least 12/14 activity participation points to pass this class
+    - Your participation in in-class activities will be a part of your overall grade, each time your participate in the majority of the day's activities you will earn a point, you must earn at least 12/14 activity participation points to pass this class
 - Make up all classwork from all absences
 
 ## Make School Course Policies
