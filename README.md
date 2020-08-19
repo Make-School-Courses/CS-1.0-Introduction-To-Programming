@@ -94,6 +94,20 @@ To pass this course you must meet the following requirements:
     - Your participation in in-class activities will be a part of your overall grade, each time your participate in the majority of the day's activities you will earn a point, you must earn at least 12/14 activity participation points to pass this class
 - Make up all classwork from all absences
 
+## How to Get Help
+**Office Hours:** 
+* **Instructors:** 30 minutes before class.
+* **TAs:** TBA
+
+**Piazza:**\
+The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
+[Ask a question on Piazza →](piazza.com/makeschool.com/fall2020/cs10)
+
+**CoWork:** \
+CoWork is a place to study with your peers with access to staff/TA support if needed. \
+*Tuesday, Wednesday 1:30-2:30pm PST*
+
+
 ## Make School Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
