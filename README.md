@@ -1,4 +1,4 @@
-# CS 1.0 Programming Fundamentals
+# CS 1.0 Introduction to Programming
 
 ## Course Description
 
