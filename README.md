@@ -97,7 +97,7 @@ To pass this course you must meet the following requirements:
 ## How to Get Help
 **Office Hours:** \
 Instructors:30 minutes before class.\
-TAs: To be announced. \
+TAs: To be announced.
 
 **Piazza:**\
 The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
@@ -106,7 +106,6 @@ The best way to get answers is to ask questions! Ask questions on Piazza so ever
 **CoWork:** \
 CoWork is a place to study with your peers with access to staff/TA support if needed. \
 *Tuesday, Wednesday 1:30-2:30pm PST*
-
 
 ## Make School Course Policies
 
