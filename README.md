@@ -95,9 +95,9 @@ To pass this course you must meet the following requirements:
 - Make up all classwork from all absences
 
 ## How to Get Help
-**Office Hours:** 
-* **Instructors:** 30 minutes before class.
-* **TAs:** TBA
+**Office Hours:** \
+Instructors:30 minutes before class.\
+TAs: To be announced. \
 
 **Piazza:**\
 The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
