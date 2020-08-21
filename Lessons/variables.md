@@ -17,4 +17,7 @@
 * [**Section B**](https://www.youtube.com/watch?v=C4y8qCSxKK4)
 * [**Section C**](https://youtu.be/zflyPumGrhw)
 
+
+**Student Spotlight**
+![Imgur](https://i.imgur.com/2fSKUAG.png){:height="36px" width="36px"}
 <!-- > -->
