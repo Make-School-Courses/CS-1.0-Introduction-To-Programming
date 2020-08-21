@@ -12,5 +12,10 @@
 * [**Section A**](https://www.youtube.com/watch?v=SlsNmSdIl7c)
 * [**Section B**](https://www.youtube.com/watch?v=C4y8qCSxKK4)
 * [**Section C**](https://youtu.be/zflyPumGrhw)
-<!-- > -->
+
+<!-- blank line -->
+<div>
+  <iframe height="400px" width="100%" src="https://repl.it/@MakeSchool/VariablePractice?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+</div>
+<!-- blank line -->
 <!-- > -->
