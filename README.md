@@ -96,10 +96,10 @@ To pass this course you must meet the following requirements:
 
 ## How to Get Help
 **Office Hours:** \
-Instructors:30 minutes before class.\
+Instructors: 30 minutes before class.\
 TAs: To be announced.
 
-**Piazza:**\
+**Piazza:** \
 The best way to get answers is to ask questions! Ask questions on Piazza so everyone can benefit from the response. \
 [Ask a question on Piazza →](https://piazza.com/makeschool.com/fall2020/cs10)
 
