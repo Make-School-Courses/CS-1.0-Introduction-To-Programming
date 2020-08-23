@@ -11,10 +11,4 @@
   * Coding Exercise 2: [**https://repl.it/@MakeSchool/VariableExample**](https://repl.it/@MakeSchool/VariableExample)
   * Coding Exercise 3: [**https://repl.it/@MakeSchool/StudentVariableExample**](https://repl.it/@MakeSchool/StudentVariableExample)
 
-**📺 &nbsp;Class Session Recordings:**
-  <!-- Put a link to the YouTube videos -->
-* [**Section A**](https://www.youtube.com/watch?v=SlsNmSdIl7c)
-* [**Section B**](https://www.youtube.com/watch?v=C4y8qCSxKK4)
-* [**Section C**](https://youtu.be/zflyPumGrhw)
-
 <!-- > -->
