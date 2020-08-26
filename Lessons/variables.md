@@ -10,5 +10,9 @@
   * Coding Exercise 1: [**https://repl.it/@MakeSchool/VariablePractice**](https://repl.it/@MakeSchool/VariablePractice)
   * Coding Exercise 2: [**https://repl.it/@MakeSchool/VariableExample**](https://repl.it/@MakeSchool/VariableExample)
   * Coding Exercise 3: [**https://repl.it/@MakeSchool/StudentVariableExample**](https://repl.it/@MakeSchool/StudentVariableExample)
-
+  
+**🍐 &nbsp;Pear Deck Sessions:**
+ * [**Section A**](https://app.peardeck.com/student/twotocutu)
+ * [**Section B**](https://app.peardeck.com/student/tbzfpipod)
+ * Section C
 <!-- > -->
