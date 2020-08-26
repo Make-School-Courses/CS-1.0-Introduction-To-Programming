@@ -18,6 +18,6 @@
  * Section C
 
 **📖 &nbsp;After Class Review:**
- * **Class Notes:** Data Types and Operations Class Notes
+ * **Class Notes:** [Data Types and Operations Class Notes](https://docs.google.com/document/d/1DuaOvmpxZsNWZk1hs6eOr9EkYmR99SamxejT_ZTXjnk/edit?usp=sharing)
 <!-- > -->
 
