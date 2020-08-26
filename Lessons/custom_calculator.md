@@ -26,9 +26,13 @@ By completing this project, you should be able to…
 
 1. Your submitted code should be in a repo on Github and should have a minimum of 3 commits, you will need to submit the link to your repo on gradescope in order to receive a grade
 
+1. Create a video demo of your calculator that walks through your completed code and shows your program running
+
 1. Feel free to use any calculation topic of your choice as long as it isn't one of the calculation programs we already wrote in class.
 
 1. The class session after this assignment is due we will have a show and tell so you can all show off what you created!
+
+
 
 ### Stretch Requirements/Challenges (Optional)
 1. Modify your program to perform multiple calculations
