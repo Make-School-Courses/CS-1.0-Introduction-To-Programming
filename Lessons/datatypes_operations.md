@@ -11,6 +11,10 @@
   * Coding Exercise 1: [**https://repl.it/@MakeSchool/TypePractice**](https://repl.it/@MakeSchool/TypePractice)
   * Coding Exercise 2: [**https://repl.it/@MakeSchool/ArithmeticOperators**](https://repl.it/@MakeSchool/ArithmeticOperators)
   * Coding Exercise 3: [**https://repl.it/@MakeSchool/LetItBe**](https://repl.it/@MakeSchool/LetItBe)
-
+  
+**🍐 &nbsp;Pear Deck Sessions:**
+ * [**Section A**](https://app.peardeck.com/student/tujxllhgo)
+ * [**Section B**](https://app.peardeck.com/student/ttvzhzngt)
+ * Section C
 <!-- > -->
 
