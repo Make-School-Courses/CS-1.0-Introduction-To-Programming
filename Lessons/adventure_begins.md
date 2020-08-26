@@ -8,4 +8,9 @@
 * [**Slides**](https://docs.google.com/presentation/d/1mYbYg1Unrq1kc_65qGfW2c003AqSI0uPtn16Xb53lKw/edit#slide=id.p)
 * **Repls:**
   * Coding Exercise 1: [**https://repl.it/@MakeSchool/FirstCodingExample**](https://repl.it/@MakeSchool/FirstCodingExample)
+  
+**🍐 &nbsp;Pear Deck Sessions:**
+ * [**Section A**](https://app.peardeck.com/student/txlxcaxcp)
+ * [**Section B**](https://app.peardeck.com/student/thvsuovsb)
+ * Section C
 <!-- > -->
