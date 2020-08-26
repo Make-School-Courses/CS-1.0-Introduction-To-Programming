@@ -16,5 +16,8 @@
  * [**Section A**](https://app.peardeck.com/student/tujxllhgo)
  * [**Section B**](https://app.peardeck.com/student/ttvzhzngt)
  * Section C
+
+**📖 &nbsp;After Class Review:**
+ * **Class Notes:** Data Types and Operations Class Notes
 <!-- > -->
 
