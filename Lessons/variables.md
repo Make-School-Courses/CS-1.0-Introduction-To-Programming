@@ -17,5 +17,5 @@
  * Section C
  
 **📖 &nbsp;After Class Review:**
- * **Class Notes:** [**Variables Class Notes**](https://docs.google.com/document/d/1WWzFFG97rWNiUE1y6JkTI2ZXG0lHQOkLFxQns6PLcSU/)
+ * **Class Notes:** [**Variables Class Notes**](https://docs.google.com/document/d/1WWzFFG97rWNiUE1y6JkTI2ZXG0lHQOkLFxQns6PLcSU/edit?usp=sharing)
 <!-- > -->
