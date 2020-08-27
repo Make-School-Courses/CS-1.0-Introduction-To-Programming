@@ -6,10 +6,3 @@
 ➡️ [**Slides**](https://docs.google.com/presentation/d/1srR8iLoV_n9Y7ahViGPPhgziEeCvYR8-zpqsvq7yd_8/edit#slide=id.p)
 
 <!-- > -->
-
-## Learning Objectives (5 min)
-
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
