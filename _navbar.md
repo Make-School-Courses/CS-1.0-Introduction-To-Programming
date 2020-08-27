@@ -2,6 +2,8 @@
 - **Lessons**
   - [The Adventure Begins](Lessons/adventure_begins.md)
   - [Variables](Lessons/variables.md)
+  - [Print](Lessons/print.md)
+  - [Input](Lessons/input.md)
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
 
