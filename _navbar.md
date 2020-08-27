@@ -3,6 +3,7 @@
   - [The Adventure Begins](Lessons/adventure_begins.md)
   - [Variables](Lessons/variables.md)
 - **Assignments**
+  - [Custom Calculator](Lessons/custom_calculator.md)
 
 - **Quiz Study Guides**
 

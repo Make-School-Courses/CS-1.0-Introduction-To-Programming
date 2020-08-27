@@ -5,6 +5,7 @@
   
 
 - **Assignments**
+  - [Custom Calculator](Lessons/custom_calculator.md)
 
 - **Quiz Study Guides**
 
