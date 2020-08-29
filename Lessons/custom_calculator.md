@@ -19,7 +19,7 @@ Before starting this assignment, watch the following tutorials to configure Pyth
 * Step 2: [Setup Python in Visual Studio Code](https://www.youtube.com/watch?v=-YE7aEM3ZSQ) (~10 mins)
 * Step 3: [Using File Explorer in Visual Studio Code](https://www.youtube.com/watch?v=-3SIJwGgGtI) (~5 minutes)
 * Step 4: [Navigating Files on a Mac](https://youtu.be/ux8yzFHoiDc) (~4 minutes)
-* Step 5: Learn Github (Coming Soon 😎)
+* Step 5: Learn Github (https://youtu.be/c3SfAP_PfaY) (~15 minutes)
 
 ## Requirements
 
