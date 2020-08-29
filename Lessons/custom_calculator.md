@@ -12,6 +12,15 @@ By completing this project, you should be able to…
 1. Apply the print() function to display output
 1. Use variables and operations to perform calculations using a mathematical formulas
 
+## Tool Setup:
+Before starting this assignment, watch the following tutorials to configure Python and GitHub:
+
+* Step 1: [Install Python 3](https://www.youtube.com/watch?v=frj0PkjHYr0) (~3 minutes)
+* Step 2: [Setup Python in Visual Studio Code](https://www.youtube.com/watch?v=-YE7aEM3ZSQ) (~10 mins)
+* Step 3: [Using File Explorer in Visual Studio Code](https://www.youtube.com/watch?v=-3SIJwGgGtI) (~5 minutes)
+* Step 4: [Navigating Files on a Mac](https://youtu.be/ux8yzFHoiDc) (~4 minutes)
+* Step 5: Learn Github (Coming Soon 😎)
+
 ## Requirements
 
 1. In the comments of your code explain what your calculation program does
