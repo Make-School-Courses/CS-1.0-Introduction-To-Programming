@@ -35,7 +35,7 @@ By the end of the course, you will be able to ...
 |  1 |  Thu, Aug 20               | [The Adventure Begins] & [Variables] | 
 |  2 |  Tue, Aug 25               | [Data Types and Operations] |
 |  3 |  Thu, Aug 27               | [Print] & [Input] | [Custom Calculator]
-|  4 |  Tue, Sept 1               | Functions | Functions Tutorial
+|  4 |  Tue, Sept 1               | [Functions] | Functions Tutorial
 |  5 |  Thu, Sept 3               | Reading Errors | Quiz 1
 |  6 |  Tue, Sept 8               | Conditionals |
 |  7 |  Thu, Sept 10               | Pseudocode & Lists |
