@@ -30,13 +30,13 @@ By the end of the course, you will be able to ...
 * Section C (Jess): Tuesday and Thursday at 9:30am–12:15pm PST (14 class sessions)
 
 
-| Class |          Date          |                 Topics                  |    Assignments & Quizzes    |
+| Class |          Date          |                 Topics                  |    Assignments & Quizzes <br/> Release Dates    |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
 |  1 |  Thu, Aug 20               | [The Adventure Begins] & [Variables] | 
 |  2 |  Tue, Aug 25               | [Data Types and Operations] |
-|  3 |  Thu, Aug 27               | [Print] & [Input] | [Custom Calculator]
-|  4 |  Tue, Sept 1               | [Functions] | Functions Tutorial
-|  5 |  Thu, Sept 3               | Reading Errors | Quiz 1
+|  3 |  Thu, Aug 27               | [Print] & [Input] | [Custom Calculator] <br/> due Sep. 3, 11pm PDT
+|  4 |  Tue, Sept 1               | [Functions] | Functions Tutorial <br/> due Sep. 8, 11pm PDT
+|  5 |  Thu, Sept 3               | Reading Errors | Quiz 1 <br/> due Sep. 6, 11pm PDT
 |  6 |  Tue, Sept 8               | Conditionals |
 |  7 |  Thu, Sept 10               | Pseudocode & Lists |
 |  8 |  Tue, Sept 15              | Loops | Chat Bot
