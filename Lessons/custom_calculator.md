@@ -25,7 +25,7 @@ Before starting this assignment, watch the following tutorials to configure Pyth
 
 1. In the comments of your code explain what your calculation program does
 
-1. In the README of your repo explain what your calculation program does (minimally include: name, description, programming language used (i.e. Python 3.7.9))
+1. In the README of your repo explain what your calculation program does (Example: project name, description, programming language used (i.e. Python 3.7.9))
 
 1. Get at least two numerical values from the user to be used in your calculation
 
