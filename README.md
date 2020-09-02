@@ -36,7 +36,7 @@ By the end of the course, you will be able to ...
 |  2 |  Tue, Aug 25               | [Data Types and Operations] |
 |  3 |  Thu, Aug 27               | [Print] & [Input] | [Custom Calculator]
 |  4 |  Tue, Sept 1               | [Functions] | Functions Tutorial
-|  5 |  Thu, Sept 3               | Reading Errors | Quiz 1
+|  5 |  Thu, Sept 3               | Reading Errors | [Quiz 1]
 |  6 |  Tue, Sept 8               | Conditionals |
 |  7 |  Thu, Sept 10               | Pseudocode & Lists |
 |  8 |  Tue, Sept 15              | Loops | Chat Bot
