@@ -11,5 +11,6 @@
   - [Custom Calculator](Lessons/custom_calculator.md)
 
 - **Quiz Study Guides**
+  - [Quiz 1](Lessons/quiz1.md)
 
 * [Gradescope](https://www.gradescope.com/courses/154615)
