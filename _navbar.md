@@ -5,6 +5,8 @@
   - [Data Types and Operations](Lessons/datatypes_operations.md)
   - [Print](Lessons/print.md)
   - [Input](Lessons/input.md)
+  - [Functions](Lessons/functions.md)
+  
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
 
