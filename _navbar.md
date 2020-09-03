@@ -6,6 +6,7 @@
   - [Print](Lessons/print.md)
   - [Input](Lessons/input.md)
   - [Functions](Lessons/functions.md)
+  - [Reading Errors](Lessons/reading_errors.md)
   
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
