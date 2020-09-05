@@ -35,7 +35,7 @@ By the end of the course, you will be able to ...
 |  1 |  Thu, Aug 20               | [The Adventure Begins] & [Variables] | 
 |  2 |  Tue, Aug 25               | [Data Types and Operations] |
 |  3 |  Thu, Aug 27               | [Print] & [Input] | [Custom Calculator] <br/> due Sep. 3, 11pm PDT
-|  4 |  Tue, Sept 1               | [Functions] | Functions Tutorial <br/> due Sep. 8, 11pm PDT
+|  4 |  Tue, Sept 1               | [Functions] | [Functions Tutorial] <br/> due Sep. 8, 11pm PDT
 |  5 |  Thu, Sept 3               | [Reading Errors] | [Quiz 1] <br/> due Sep. 6, 11pm PDT
 |  6 |  Tue, Sept 8               | Conditionals |
 |  7 |  Thu, Sept 10               | Pseudocode & Lists |
@@ -67,6 +67,7 @@ By the end of the course, you will be able to ...
 [Terminal]: Lessons/terminal.md
 
 [Custom Calculator]: Lessons/custom_calculator.md
+[Functions Tutorial]: https://www.gradescope.com/courses/154615/assignments/635836
 [Chat Bot]: Lessons/chat_bot.md
 [Poetry Slam]: Lessons/poetry_slam.md
 
