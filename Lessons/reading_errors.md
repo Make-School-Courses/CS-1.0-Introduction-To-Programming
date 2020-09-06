@@ -21,7 +21,7 @@
  * Section C
  
 **📖 &nbsp;After Class Review:**
- * **Class Notes:** Reading Errors Class Notes
+ * **Class Notes:** [Reading Errors Class Notes](https://docs.google.com/document/d/1xVjto02TusULsZ_klCdNKUw1wtEnIJ6eWrRBZ2R4L-Q/)
 
 
 <!-- > -->
