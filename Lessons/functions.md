@@ -19,7 +19,7 @@
  * Section C
  
 **📖 &nbsp;After Class Review:**
- * **Class Notes:** Function Class Notes
+ * **Class Notes:** [Function Class Notes](https://docs.google.com/document/d/1cil0F5FtuPBJbXqvNqUhr34pbd5ovgmVsoOQAh8GUFs/)
 
 
 <!-- > -->
