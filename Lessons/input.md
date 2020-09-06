@@ -20,7 +20,7 @@
  * Section C
  
 **📖 &nbsp;After Class Review:**
- * **Class Notes:** Input Class Notes
+ * **Class Notes:** [Input Class Notes](https://docs.google.com/document/d/1QMZMTihX4GMPSTWp5G5mtlFJKGxbozQBVtlgbcYF5T8/)
 
 
 <!-- > -->
