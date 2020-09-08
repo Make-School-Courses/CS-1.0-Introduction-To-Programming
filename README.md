@@ -37,7 +37,7 @@ By the end of the course, you will be able to ...
 |  3 |  Thu, Aug 27               | [Print] & [Input] | [Custom Calculator] <br/> due Sep. 3, 11pm PDT
 |  4 |  Tue, Sept 1               | [Functions] | [Functions Tutorial] <br/> due Sep. 8, 11pm PDT
 |  5 |  Thu, Sept 3               | [Reading Errors] | [Quiz 1] <br/> due Sep. 6, 11pm PDT
-|  6 |  Tue, Sept 8               | Conditionals |
+|  6 |  Tue, Sept 8               | [Conditionals] |
 |  7 |  Thu, Sept 10               | Pseudocode & Lists |
 |  8 |  Tue, Sept 15              | Loops | Chat Bot
 |  9 |  Thu, Sept 17              | Debugging | Quiz 2
