@@ -38,7 +38,7 @@ By the end of the course, you will be able to ...
 |  4 |  Tue, Sept 1               | [Functions] | [Functions Tutorial] <br/> due Sep. 8, 11pm PDT
 |  5 |  Thu, Sept 3               | [Reading Errors] | [Quiz 1] <br/> due Sep. 6, 11pm PDT
 |  6 |  Tue, Sept 8               | [Conditionals] |
-|  7 |  Thu, Sept 10               | Pseudocode & Lists |
+|  7 |  Thu, Sept 10               | [Pseudocode] & [Lists] |
 |  8 |  Tue, Sept 15              | Loops | Chat Bot
 |  9 |  Thu, Sept 17              | Debugging | Quiz 2
 | 10 |  Tue, Sept 22              | File I/O | Lists and Loops Tutorial
