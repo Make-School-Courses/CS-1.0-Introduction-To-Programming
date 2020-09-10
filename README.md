@@ -8,6 +8,11 @@ This course covers the fundamentals of programming including variables, data typ
 
 None
 
+## Course Specifics
+
+**Course Delivery**: online | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
 ## Learning Outcomes
 
@@ -107,6 +112,12 @@ The best way to get answers is to ask questions! Ask questions on Piazza so ever
 **CoWork:** \
 CoWork is a place to study with your peers with access to staff/TA support if needed. \
 *Tuesday, Wednesday 1:30-2:30pm PST*
+
+##  Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
