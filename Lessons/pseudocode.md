@@ -3,14 +3,16 @@
 
 <!-- Put a link to the slides so that students can find them -->
 
-➡️ [**Slides**](https://docs.google.com/presentation/d/1lx8f6o8RVlhGP6IuttuP1sZnIzP9jgGXvnN0byC6H1Y/edit?usp=sharing)
+**📝 &nbsp;Class Materials:** 
+  <!-- Put a link to the slides -->
+* [**Slides**](https://docs.google.com/presentation/d/1lx8f6o8RVlhGP6IuttuP1sZnIzP9jgGXvnN0byC6H1Y/edit?usp=sharing)
 
+  
+**🍐 &nbsp;Pear Deck Sessions:**
+ * Section A
+ * Section B
+ * Section C
+ 
+**📖 &nbsp;After Class Review:**
+ * **Class Notes:** Pseudocode Class Notes
 <!-- > -->
-
-
-## Learning Objectives (5 min)
-
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
