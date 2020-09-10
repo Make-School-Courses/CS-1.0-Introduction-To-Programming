@@ -8,7 +8,8 @@
   - [Functions](Lessons/functions.md)
   - [Reading Errors](Lessons/reading_errors.md)
   - [Conditionals](Lessons/conditionals.md)
-  
+  - [Pseudocode](Lessons/pseudocode.md)
+  - [Lists](Lessons/lists.md)
 
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
