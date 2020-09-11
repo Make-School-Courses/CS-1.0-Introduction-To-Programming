@@ -9,8 +9,8 @@
 
   
 **🍐 &nbsp;Pear Deck Sessions:**
- * Section A
- * Section B
+ * [**Section A**](https://app.peardeck.com/student/tarnkcagp)
+ * [**Section B**](https://app.peardeck.com/student/tzexvoiui)
  * Section C
  
 **📖 &nbsp;After Class Review:**
