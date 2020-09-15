@@ -1,7 +1,7 @@
 # Chat Bot
 
 ## Description
-In this project we will write a Python program to create simple [chat bot](https://www.cleverbot.com/) using conditionals, lists, and loops. Your chat bot will be focused on a specific topic so think about what kinds of questions you want your chat bot to answer!
+In this project, we will write a Python program to create simple [chat bot](https://www.cleverbot.com/) using conditionals, lists, and loops. Your chat bot will be focused on a specific topic so think about what kinds of questions you want your chat bot to answer!
 
 ## Learning Outcomes
 By completing this project, you should be able to…
@@ -11,6 +11,11 @@ By completing this project, you should be able to…
 1. Use lists to store and manipulate responses
 1. Use loops to check for input
 1. Use an imported function from a built-in module
+
+## Set Up:
+🚨  Before starting the assignment, watch [How to: Setup for a New Assignment](https://youtu.be/MCbDO8IpqZM). 
+
+This tutorial walks your through how to set up a new repository, make commits, and push code to Github.
 ## Requirements
 
 1. Create a function called get_bot_response() that will take in a string argument called user_response which is what the user will type in to your chat bot and will return a string with the chat bot's response. This function must:
