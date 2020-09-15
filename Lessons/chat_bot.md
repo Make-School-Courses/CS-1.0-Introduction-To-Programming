@@ -33,7 +33,7 @@ This tutorial walks your through how to set up a new repository, make commits, a
 ### Assignment Requirements:
 
 1. Create a function called `get_bot_response()`. This function must: <br/>
-   * It should have 1 parameters called `user_response`, which is a **string** with the users input. <br /><br />
+   * It should have 1 parameter called `user_response`, which is a **string** with the users input. <br /><br />
    * It should `return` a **string** with the chat bot's response. <br /><br />
    * It should use **at least 2** lists to store **at least 3** unique responses to different user inputs. For example, if you were building a mood bot and the user entered "happy" for how they were feeling your happy response list could store something like "I'm glad to hear that!", "Yay!", "That is awesome!". <br/><br />
    *  Use conditionals to decide which of the response lists to select from. For example: if a user entered "sad", my program would choose a  reponse from the of sad response list. If a user entered "happy", my program would choose a reponse from the of happy response list. <br /><br />
