@@ -1,5 +1,9 @@
 # Chat Bot 💬
 
+Due: September 22 at 11pm PDT <br/>
+Assignment on Gradescope: [Here](https://www.gradescope.com/courses/154615/assignments/668306)
+
+
 ## Description
 In this project, we will write a Python program to create simple [chat bot](https://www.cleverbot.com/) using conditionals, lists, and loops. Your chat bot will be focused on a specific topic so think about what kinds of questions you want your chat bot to answer!
 
@@ -28,7 +32,7 @@ This tutorial walks your through how to set up a new repository, make commits, a
 1. Your submitted code should be in a new (public) repo on Github.
 1. Your respository should have a minimum of **5 commits**. 
 1. Your repositroy should include a README with the name of your Chat Bot and a description.
-1. On Gradescope, submit the link to your repo.
+1. Submit the link to your repo on [Gradescope](https://www.gradescope.com/courses/154615/assignments/668306).
 
 ### Assignment Requirements:
 
