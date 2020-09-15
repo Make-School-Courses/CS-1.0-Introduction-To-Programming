@@ -1,4 +1,4 @@
-# Chat Bot
+# Chat Bot 💬
 
 ## Description
 In this project, we will write a Python program to create simple [chat bot](https://www.cleverbot.com/) using conditionals, lists, and loops. Your chat bot will be focused on a specific topic so think about what kinds of questions you want your chat bot to answer!
