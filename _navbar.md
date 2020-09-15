@@ -10,10 +10,12 @@
   - [Conditionals](Lessons/conditionals.md)
   - [Pseudocode](Lessons/pseudocode.md)
   - [Lists](Lessons/lists.md)
+  - [Loops](Lessons/loops.md)
   
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
-
+  - [Chat Bot](Lessons/chat_bot.md)
+  
 - **Quiz Study Guides**
   - [Quiz 1](Lessons/quiz1.md)
 
