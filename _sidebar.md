@@ -11,6 +11,7 @@
   - [Pseudocode](Lessons/pseudocode.md)
   - [Lists](Lessons/lists.md)
   - [Loops](Lessons/loops.md)
+  - [Debugging](Lessons/debugging.md)
   
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
