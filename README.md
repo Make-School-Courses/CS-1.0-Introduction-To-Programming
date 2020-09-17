@@ -45,7 +45,7 @@ By the end of the course, you will be able to ...
 |  6 |  Tue, Sept 8               | [Conditionals] |
 |  7 |  Thu, Sept 10               | [Pseudocode] & [Lists] |
 |  8 |  Tue, Sept 15              | [Loops] | [Chat Bot] <br/> due Sep. 22, 11pm PDT
-|  9 |  Thu, Sept 17              | Debugging | [Quiz 2]
+|  9 |  Thu, Sept 17              | [Debugging] | [Quiz 2]
 | 10 |  Tue, Sept 22              | File I/O | Lists and Loops Tutorial
 | 11 |  Thu, Sept 24              | Dictionaries | Poetry Slam
 | 12 |  Tue, Sept 29              | Code Quality |
