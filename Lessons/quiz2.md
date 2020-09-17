@@ -5,6 +5,7 @@
 - Conditionals
     - Be able to write an if statement
     - Be able to write an if elif else statement
+    - Be able to write a function that uses conditionals
 - Lists
     - Be able to create a list
     - Be able to add to a list
