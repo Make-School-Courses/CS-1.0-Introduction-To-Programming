@@ -6,7 +6,7 @@
 
 **📝 &nbsp;Class Materials:** 
   <!-- Put a link to the slides -->
-* [**Slides**](https://https://docs.google.com/presentation/d/1BTp5ab47RCPRtIuGrEWPR60W5py14kJXXocR9TBlZOE)
+* [**Slides**](https://docs.google.com/presentation/d/1BTp5ab47RCPRtIuGrEWPR60W5py14kJXXocR9TBlZOE)
 
 
 
