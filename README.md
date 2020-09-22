@@ -46,7 +46,7 @@ By the end of the course, you will be able to ...
 |  7 |  Thu, Sept 10               | [Pseudocode] & [Lists] |
 |  8 |  Tue, Sept 15              | [Loops] | [Chat Bot] <br/> due Sep. 22, 11pm PDT
 |  9 |  Thu, Sept 17              | [Debugging] | [Quiz 2] <br/> due Sep. 21, 11pm PDT
-| 10 |  Tue, Sept 22              | File I/O | Lists and Loops Tutorial
+| 10 |  Tue, Sept 22              | [File I/O] | [Lists and Loops Tutorial] <br/> due Sep. 28, 11pm PDT
 | 11 |  Thu, Sept 24              | Dictionaries | Poetry Slam
 | 12 |  Tue, Sept 29              | Code Quality |
 | 13 |  Thu, Oct 1              | Problem Solving | Quiz 3
@@ -74,6 +74,7 @@ By the end of the course, you will be able to ...
 [Custom Calculator]: Lessons/custom_calculator.md
 [Functions Tutorial]: https://www.gradescope.com/courses/154615/assignments/635836
 [Chat Bot]: Lessons/chat_bot.md
+[Lists and Loops Tutorial]: https://www.gradescope.com/courses/154615/assignments/690562/
 [Poetry Slam]: Lessons/poetry_slam.md
 
 [Quiz 1]: Lessons/quiz1.md
