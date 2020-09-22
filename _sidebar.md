@@ -12,6 +12,7 @@
   - [Lists](Lessons/lists.md)
   - [Loops](Lessons/loops.md)
   - [Debugging](Lessons/debugging.md)
+  - [File IO](Lessons/file_io.md)
   
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
