@@ -53,7 +53,7 @@ This tutorial walks your through how to set up a new repository, make commits, a
 
       For example, if you poem is Remember by Joy Harjo:
 
-      In poem.txt:
+      **In `poem.txt`:**
 
       Remember the sky that you were born under,\
       know each of the star's stories.\
@@ -83,7 +83,7 @@ This tutorial walks your through how to set up a new repository, make commits, a
       Remember.
 
 
-      then your `lines_printed_backwards()` function will print:
+      **then your `lines_printed_backwards()` function will print:**
 
 
       26 Remember.\
