@@ -119,7 +119,7 @@ This tutorial walks your through how to set up a new repository, make commits, a
     * It should `print` the lines of your poem in randomly order. **Repeats** are ok, but make sure the number of lines printed is equal to the original lines in the poem (Line numbers do not need to be printed.) Hint: try using a loop and `randint()` from the `random` module. 
 
 1. Create a function called `lines_printed_custom()`:
-    * It should have 1 parameter called `lines_list`, which is a list of strings containing lines of your poem. 
+    * It should minimally have 1 parameter called `lines_list`, which is a list of strings containing lines of your poem. 
     * It should print the poem in a unique way, be creative!
     * Make sure that you carefully comment your custom function so it's clear what it does.
 
