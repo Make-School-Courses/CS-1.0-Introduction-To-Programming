@@ -47,7 +47,7 @@ By the end of the course, you will be able to ...
 |  8 |  Tue, Sept 15              | [Loops] | [Chat Bot] <br/> due Sep. 22, 11pm PDT
 |  9 |  Thu, Sept 17              | [Debugging] | [Quiz 2] <br/> due Sep. 21, 11pm PDT
 | 10 |  Tue, Sept 22              | [File I/O] | [Lists and Loops Tutorial] <br/> due Sep. 28, 11pm PDT
-| 11 |  Thu, Sept 24              | Dictionaries | Poetry Slam
+| 11 |  Thu, Sept 24              | [Dictionaries] | [Poetry Slam]
 | 12 |  Tue, Sept 29              | Code Quality |
 | 13 |  Thu, Oct 1              | Problem Solving | Quiz 3
 | 14 |  Tue, Oct 6                | Terminal |
