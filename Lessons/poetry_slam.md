@@ -54,65 +54,65 @@ This tutorial walks your through how to set up a new repository, make commits, a
       For example, if you poem is Remember by Joy Harjo:
 
       **In `poem.txt`:**
-
-      Remember the sky that you were born under,\
-      know each of the star's stories.\
-      Remember the moon, know who she is.\
-      Remember the sun's birth at dawn, that is the\
-      strongest point of time. Remember sundown\
-      and the giving away to night.\
-      Remember your birth, how your mother struggled\
-      to give you form and breath. You are evidence of\
-      her life, and her mother's, and hers.\
-      Remember your father. He is your life, also.\
-      Remember the earth whose skin you are:\
-      red earth, black earth, yellow earth, white earth\
-      brown earth, we are earth.\
-      Remember the plants, trees, animal life who all have their\
-      tribes, their families, their histories, too. Talk to them,\
-      listen to them. They are alive poems.\
+      ```
+      Remember the sky that you were born under,
+      know each of the star's stories.
+      Remember the moon, know who she is.
+      Remember the sun's birth at dawn, that is the
+      strongest point of time. Remember sundown
+      and the giving away to night.
+      Remember your birth, how your mother struggled
+      to give you form and breath. You are evidence of
+      her life, and her mother's, and hers.
+      Remember your father. He is your life, also.
+      Remember the earth whose skin you are:
+      red earth, black earth, yellow earth, white earth
+      brown earth, we are earth.
+      Remember the plants, trees, animal life who all have their
+      tribes, their families, their histories, too. Talk to them,
+      listen to them. They are alive poems.
       Remember the wind. Remember her voice. She knows the
-      origin of this universe.\
+      origin of this universe.
       Remember you are all people and all people
-      are you.\
+      are you.
       Remember you are this universe and this
-      universe is you.\
-      Remember all is in motion, is growing, is you.\
-      Remember language comes from this.\
-      Remember the dance language is, that life is.\
+      universe is you.
+      Remember all is in motion, is growing, is you.
+      Remember language comes from this.
+      Remember the dance language is, that life is.
       Remember.
-
+      ```
 
       **then your `lines_printed_backwards()` function will print:**
 
-
-      26 Remember.\
-      25 Remember the dance language is, that life is.\
-      24 Remember language comes from this.\
-      23 Remember all is in motion, is growing, is you.\
-      22 universe is you.\
-      21 Remember you are this universe and this\
-      20 are you.\
-      19 Remember you are all people and all people\
-      18 origin of this universe.\
-      17 Remember the wind. Remember her voice. She knows the\
-      16 listen to them. They are alive poems.\
-      15 tribes, their families, their histories, too. Talk to them,\
-      14 Remember the plants, trees, animal life who all have their\
-      13 brown earth, we are earth.\
-      12 red earth, black earth, yellow earth, white earth\
-      11 Remember the earth whose skin you are:\
-      10 Remember your father. He is your life, also.\
-      9 her life, and her mother's, and hers.\
-      8 to give you form and breath. You are evidence of\
-      7 Remember your birth, how your mother struggled\
-      6 and the giving away to night.\
-      5 strongest point of time. Remember sundown\
-      4 Remember the sun's birth at dawn, that is the\
-      3 Remember the moon, know who she is.\
-      2 know each of the star's stories.\
+      ```
+      26 Remember.
+      25 Remember the dance language is, that life is.
+      24 Remember language comes from this.
+      23 Remember all is in motion, is growing, is you.
+      22 universe is you.
+      21 Remember you are this universe and this
+      20 are you.
+      19 Remember you are all people and all people
+      18 origin of this universe.
+      17 Remember the wind. Remember her voice. She knows the
+      16 listen to them. They are alive poems.
+      15 tribes, their families, their histories, too. Talk to them,
+      14 Remember the plants, trees, animal life who all have their
+      13 brown earth, we are earth.
+      12 red earth, black earth, yellow earth, white earth
+      11 Remember the earth whose skin you are:
+      10 Remember your father. He is your life, also.
+      9 her life, and her mother's, and hers.
+      8 to give you form and breath. You are evidence of
+      7 Remember your birth, how your mother struggled
+      6 and the giving away to night.
+      5 strongest point of time. Remember sundown
+      4 Remember the sun's birth at dawn, that is the
+      3 Remember the moon, know who she is.
+      2 know each of the star's stories.
       1 Remember the sky that you were born under,
-
+      ```
 
 1. Create a function called `lines_printed_random()`:
     * It should have 1 parameter called `lines_list`, which is a list of strings containing lines of your poem. 
