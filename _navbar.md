@@ -13,10 +13,12 @@
   - [Loops](Lessons/loops.md)
   - [Debugging](Lessons/debugging.md)
   - [File IO](Lessons/file_io.md)
+  - [Dictionaries](Lessons/dictionaries.md)
   
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
   - [Chat Bot](Lessons/chat_bot.md)
+  - [Poetry Slam](Lessons/poetry_slam.md)
   
 - **Quiz Study Guides**
   - [Quiz 1](Lessons/quiz1.md)
