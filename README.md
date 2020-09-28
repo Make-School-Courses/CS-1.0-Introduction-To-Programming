@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 | 11 |  Thu, Sept 24              | [Dictionaries] | [Poetry Slam] <br/> due Oct. 1, 11pm PDT
 | 12 |  Tue, Sept 29              | Code Quality |
 | 13 |  Thu, Oct 1              | Problem Solving | Quiz 3
-| 14 |  Tue, Oct 6                | Terminal |
+| 14 |  Tue, Oct 6                | Lab |
 
 
 [The Adventure Begins]: Lessons/adventure_begins.md
