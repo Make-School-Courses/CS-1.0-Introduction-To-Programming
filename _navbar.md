@@ -14,6 +14,7 @@
   - [Debugging](Lessons/debugging.md)
   - [File IO](Lessons/file_io.md)
   - [Dictionaries](Lessons/dictionaries.md)
+  - [Code Quality](Lessons/code_quality.md)
   
 - **Assignments**
   - [Custom Calculator](Lessons/custom_calculator.md)
