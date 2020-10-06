@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 | 11 |  Thu, Sept 24              | [Dictionaries] | [Poetry Slam] <br/> due Oct. 1, 11pm PDT
 | 12 |  Tue, Sept 29              | [Code Quality] |
 | 13 |  Thu, Oct 1              | [Problem Solving] | [Quiz 3]
-| 14 |  Tue, Oct 6                | Lab |
+| 14 |  Tue, Oct 6                | [Lab] |
 
 
 [The Adventure Begins]: Lessons/adventure_begins.md
@@ -69,7 +69,7 @@ By the end of the course, you will be able to ...
 [Dictionaries]: Lessons/dictionaries.md
 [Code Quality]: Lessons/code_quality.md
 [Problem Solving]: Lessons/problem_solving.md
-[Terminal]: Lessons/terminal.md
+[Lab]: Lessons/terminal.md
 
 [Custom Calculator]: Lessons/custom_calculator.md
 [Functions Tutorial]: https://www.gradescope.com/courses/154615/assignments/635836
