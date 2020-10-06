@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 | 11 |  Thu, Sept 24              | [Dictionaries] | [Poetry Slam] <br/> due Oct. 1, 11pm PDT
 | 12 |  Tue, Sept 29              | [Code Quality] |
 | 13 |  Thu, Oct 1              | [Problem Solving] | [Quiz 3]
-| 14 |  Tue, Oct 6                | [Lab](https://make-school-courses.github.io/CS-1.0-Introduction-To-Programming/#/) |
+| 14 |  Tue, Oct 6                | [Lab](https://docs.google.com/presentation/d/12TbI0i9npgna_aOeogmZWnxcAnvwNBnz1zgVfMqwgz4/edit?usp=sharing) |
 
 
 [The Adventure Begins]: Lessons/adventure_begins.md
