@@ -32,7 +32,7 @@ This tutorial walks your through how to set up a new repository, make commits, a
 1. Your repo should include a README with the name of your project and a description.
 1. Create a demo video. The demo should include a walkthrough of your code and demonstration of how your bot working.
 1. [Optional] Upload your video to Google Drive and share a link if Gradescope upload speeds are too slow.
-1. Submit the link to your repo and demo on [Gradescope](https://www.gradescope.com/courses/154615/assignments/696326).
+1. Submit the link to your repo and demo on Gradescope.
 
 
 ### Assignment Requirements:
