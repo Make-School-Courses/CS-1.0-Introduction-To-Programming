@@ -1,8 +1,5 @@
 # Poetry Slam
 
-Due: October 1st at 11pm PDT <br/>
-Assignment on Gradescope: [Here](https://www.gradescope.com/courses/154615/assignments/696326)
-
 ## Description
 In this project, we will write a Python program to print out poetry backwards, randomly, and any way you can rearrange!
 
