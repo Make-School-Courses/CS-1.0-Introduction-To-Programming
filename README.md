@@ -72,7 +72,7 @@ By the end of the course, you will be able to ...
 [Functions Tutorial]: https://www.gradescope.com/courses/154615/assignments/635836
 [Chat Bot]: Lessons/chat_bot.md
 [Lists and Loops Tutorial]: 
-[Poetry Slam]: https://www.gradescope.com/courses/201367/assignments/768689/
+[Poetry Slam]: https://www.gradescope.com/courses/201367/assignments/768689
 
 [Quiz 1]: Lessons/quiz1.md
 [Quiz 2]: Lessons/quiz2.md
