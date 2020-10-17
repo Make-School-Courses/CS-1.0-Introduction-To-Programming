@@ -13,14 +13,4 @@
   * Coding Exercise 2: [https://repl.it/@MakeSchool/Membership](https://repl.it/@MakeSchool/Membership)
   * Coding Exercise 3: [https://repl.it/@MakeSchool/WritingConditionals](https://repl.it/@MakeSchool/WritingConditionals)
   * Coding Exercise 4: [https://repl.it/@MakeSchool/functionswithconditionals](https://repl.it/@MakeSchool/functionswithconditionals)
-
-  
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/tnpmfeceu)
- * [**Section B**](https://app.peardeck.com/student/thuwklunp)
- * Section C
- 
-**📖 &nbsp;After Class Review:**
- * **Class Notes:** Conditionals Class Notes
-
 <!-- > -->
