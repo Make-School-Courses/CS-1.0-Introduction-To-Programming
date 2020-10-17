@@ -48,7 +48,7 @@ By the end of the course, you will be able to ...
 | 10    |  Mon, Nov 30           | [Dictionaries]                          | [Quiz 3] <br/> due Friday Dec. 4, 11pm PDT
 | 11    |  Wed, Dec 2            | [Code Quality]                          | [Poetry Slam] <br/> due Tuesday, Dec. 8, 11pm PDT
 | 12    |  Mon, Dec 7            | [Problem Solving]                       | 
-| 13    |  Wed, Dec 9            | [Lab]                                   |
+| 13    |  Wed, Dec 9            | Lab                                   |
 
 
 [The Adventure Begins]: Lessons/adventure_begins.md
