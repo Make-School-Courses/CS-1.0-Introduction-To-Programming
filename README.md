@@ -10,7 +10,7 @@ None
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions
+**Course Delivery**: Online | 8 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
@@ -26,31 +26,29 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Thursday, August 20 – Tuesday, October 6, 2020 (7 weeks)
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
-**Class Times:** 
+**Class Times:** Monday and Wednesday at 9:30am–12:15pm (13 class sessions)
 
-* Section A (Joi): Tuesday and Thursday at 9:30am–12:15pm PST (14 class sessions)
-* Section B (Joi): Tuesday and Thursday at 2:45pm–5:30pm PST (14 class sessions)
-* Section C (Jess): Tuesday and Thursday at 9:30am–12:15pm PST (14 class sessions)
 
 
 | Class |          Date          |                 Topics                  |    Assignments & Quizzes <br/> Release Dates    |
-|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  Thu, Aug 20               | [The Adventure Begins] & [Variables] | 
-|  2 |  Tue, Aug 25               | [Data Types and Operations] |
-|  3 |  Thu, Aug 27               | [Print] & [Input] | [Custom Calculator] <br/> due Sep. 3, 11pm PDT
-|  4 |  Tue, Sept 1               | [Functions] | [Functions Tutorial] <br/> due Sep. 8, 11pm PDT
-|  5 |  Thu, Sept 3               | [Reading Errors] | [Quiz 1] <br/> due Sep. 6, 11pm PDT
-|  6 |  Tue, Sept 8               | [Conditionals] |
-|  7 |  Thu, Sept 10               | [Pseudocode] & [Lists] |
-|  8 |  Tue, Sept 15              | [Loops] | [Chat Bot] <br/> due Sep. 22, 11pm PDT
-|  9 |  Thu, Sept 17              | [Debugging] | [Quiz 2] <br/> due Sep. 21, 11pm PDT
-| 10 |  Tue, Sept 22              | [File I/O] | [Lists and Loops Tutorial] <br/> due Sep. 28, 11pm PDT
-| 11 |  Thu, Sept 24              | [Dictionaries] | [Poetry Slam] <br/> due Oct. 1, 11pm PDT
-| 12 |  Tue, Sept 29              | [Code Quality] |
-| 13 |  Thu, Oct 1              | [Problem Solving] | [Quiz 3]
-| 14 |  Tue, Oct 6                | [Lab](https://docs.google.com/presentation/d/12TbI0i9npgna_aOeogmZWnxcAnvwNBnz1zgVfMqwgz4/edit?usp=sharing) |
+|:-----:|:----------------------:|:---------------------------------------:|:-----------------------------------------------:|
+|  1    |  Wed, Oct 21           | [The Adventure Begins] & [Variables]    | 
+|  2    |  Mon, Oct 26           | [Data Types and Operations]             |
+|  3    |  Wed, Oct 28           | [Print] & [Input]                       | [Custom Calculator] <br/> due Tuesday, Nov. 3 @ 11pm PDT
+|  -    |  Mon, Nov 2            | **Vote! - Civic Responsibility Break**  | 
+|  4    |  Wed, Nov 4            | [Functions]                             | [Functions Tutorial] <br/> due Sunday, Nov. 8 @ 11pm PDT
+|  5    |  Mon, Nov 9            | [Conditionals]                          | [Quiz 1] <br/> due Friday, Nov. 13 @ 11pm PDT
+|  6    |  Wed, Nov 11           | [Pseudocode] & [Lists]                  |
+|  7    |  Mon, Nov 16           | [Loops]                                 | [Lists and Loops Tutorial] <br/> due Friday, Nov. 20 @ 11pm PDT
+|  8    |  Wed, Nov 18           | [Reading Errors] & [Debugging]          | [Quiz 2] <br/> due Sunday, Nov. 22, 11pm PDT
+|  9    |  Mon, Nov 23           | [File I/O]                              | [Chat Bot] <br/> due Tuesday, Dec. 1, 11pm PDT
+|  -    |  Wed, Nov 25           |  **Holiday - Thanksgiving**             | 
+| 10    |  Mon, Nov 30           | [Dictionaries]                          | [Quiz 3] <br/> due Friday Dec. 4, 11pm PDT
+| 11    |  Wed, Dec 2            | [Code Quality]                          | [Poetry Slam] <br/> due Tuesday, Dec. 8, 11pm PDT
+| 12    |  Mon, Dec 7            | [Problem Solving]                       | 
+| 13    |  Wed, Dec 9            | [Lab]                                   |
 
 
 [The Adventure Begins]: Lessons/adventure_begins.md
