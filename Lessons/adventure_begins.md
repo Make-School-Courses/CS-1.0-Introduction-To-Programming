@@ -9,8 +9,4 @@
 * **Repls:**
   * Coding Exercise 1: [**https://repl.it/@MakeSchool/FirstCodingExample**](https://repl.it/@MakeSchool/FirstCodingExample)
   
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/txlxcaxcp)
- * [**Section B**](https://app.peardeck.com/student/thvsuovsb)
- * Section C
 <!-- > -->
