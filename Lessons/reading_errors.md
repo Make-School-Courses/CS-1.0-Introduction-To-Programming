@@ -14,11 +14,6 @@
   * Coding Exercise 3:[**https://repl.it/@MakeSchool/RuntimeError**](https://repl.it/@MakeSchool/RuntimeError)
   * Coding Exercise 4: [**https://repl.it/@MakeSchool/ErrorPractice**](https://repl.it/@MakeSchool/ErrorPractice)
 
-  
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/tcimygzha)
- * [**Section B**](https://app.peardeck.com/student/tbbgpzaor)
- * Section C
  
 **📖 &nbsp;After Class Review:**
  * **Class Notes:** [Reading Errors Class Notes](https://docs.google.com/document/d/1xVjto02TusULsZ_klCdNKUw1wtEnIJ6eWrRBZ2R4L-Q/)
