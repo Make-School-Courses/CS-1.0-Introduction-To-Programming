@@ -10,12 +10,5 @@
   * Coding Exercise 1: [**https://repl.it/@MakeSchool/CreateLists**](https://https://repl.it/@MakeSchool/CreateLists)
   * Coding Exercise 2: [**https://repl.it/@MakeSchool/JessJoiDogKennel**](https://repl.it/@MakeSchool/JessJoiDogKennel)
   * Coding Exercise 3: [**https://repl.it/@MakeSchool/KittyKennel**](https://repl.it/@MakeSchool/KittyKennel)
-  
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/tarnkcagp)
- * [**Section B**](https://app.peardeck.com/student/tuzzhwsao)
- * Section C
- 
-**📖 &nbsp;After Class Review:**
- * **Class Notes:** Lists Class Notes
+
 <!-- > -->
