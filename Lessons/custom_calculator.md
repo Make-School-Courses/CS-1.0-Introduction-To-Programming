@@ -1,4 +1,4 @@
-# Custom Calculator
+# Custom Calculator 🧮
 
 ## Description
 In this project we will write a Python program to create a text based calculator program similar to the calculators you built in class! This calculator will be based on a topic of your choosing, so be creative!
