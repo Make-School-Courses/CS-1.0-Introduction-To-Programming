@@ -20,12 +20,4 @@
   * Coding Exercise 9: [https://repl.it/@MakeSchool/LoopsandConditionals](https://repl.it/@MakeSchool/LoopsandConditionals)
   * Coding Exercise 10: [https://repl.it/@MakeSchool/firstchatbot](https://repl.it/@MakeSchool/firstchatbot)
   
-**🍐 &nbsp;Pear Deck Sessions:**
- * Section A
- * Section B
- * Section C
- 
-**📖 &nbsp;After Class Review:**
- * **Class Notes:** Loops Class Notes
-
 <!-- > -->
