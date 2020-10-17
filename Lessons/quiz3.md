@@ -6,6 +6,5 @@
     - Be able to open, read, write, and close a file
 - Dictionaries
     - Be able to write code to create, read from, update, and delete from a dictionary
-- Code Quality
-    - Be able to improve a piece of code using the code quality techniques we covered in class
+
 
