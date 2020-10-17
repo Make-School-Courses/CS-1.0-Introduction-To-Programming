@@ -8,11 +8,4 @@
 * [**Slides**](https://docs.google.com/presentation/d/1lx8f6o8RVlhGP6IuttuP1sZnIzP9jgGXvnN0byC6H1Y/edit?usp=sharing)
 
   
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/tarnkcagp)
- * [**Section B**](https://app.peardeck.com/student/tzexvoiui)
- * Section C
- 
-**📖 &nbsp;After Class Review:**
- * **Class Notes:** Pseudocode Class Notes
 <!-- > -->
