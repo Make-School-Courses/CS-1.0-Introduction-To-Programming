@@ -3,6 +3,8 @@
 ## Description
 In this project we will write a Python program to create a text based calculator program similar to the calculators you built in class! This calculator will be based on a topic of your choosing, so be creative!
 
+Feel free to use any calculation topic of your choice as long as it isn't one of the calculation programs we already wrote in class.
+
 ## Learning Outcomes
 By completing this project, you should be able to…
 
@@ -21,26 +23,35 @@ Before starting this assignment, watch the following tutorials to configure Pyth
 * Step 4: [Navigating Files on a Mac](https://youtu.be/ux8yzFHoiDc) (~4 minutes)
 * Step 5: [Learn Github](https://youtu.be/c3SfAP_PfaY) (~15 minutes)
 
+
+## Assignment Set Up:
+🚨  Before starting the assignment, watch [How to: Setup for a New Assignment](https://youtu.be/MCbDO8IpqZM). 
+
+This tutorial walks your through how to set up a new repository, make commits, and push code to Github.
+
+
 ## Requirements
 
-1. In the comments of your code explain what your calculation program does
+### Submission Requirements:
+1. Your submitted code should be in a new (public) repo on Github.
+1. Your respository should have a minimum of **3 commits**. 
+1. Your repositroy should include a README with the name of your Calculator and a description.
+1. Submit the link to your repo on Gradescope.
+1. Create a demo video. The demo should include a walkthrough of your code and demonstration of how your bot working.
 
-1. In the README of your repo explain what your calculation program does (Example: project name, description, programming language used (i.e. Python 3.7.9))
+## Requirements
 
-1. Get at least two numerical values from the user to be used in your calculation
+1. `print()` Welcome messaging for users welcoming them to your program and how it works.
 
-1. Perform a calculation using a mathematical formula
+1. Using `input()` statements, get at least two numerical values from the user to be used in your calculation.
 
-1. Print out the results of the calculation to the user 
+1. Using the input values from the user, perform a calculation using a mathematical formula related to your topic.
 
-1. Your submitted code should be in a repo on Github and should have a minimum of 3 commits, you will need to submit the link to your repo on gradescope in order to receive a grade
+1. `print()` out the results of the calculation to the user. Print a user friendly message, not just a value.
 
-1. Create a video demo of your calculator that walks through your completed code and shows your program running
-
-1. Feel free to use any calculation topic of your choice as long as it isn't one of the calculation programs we already wrote in class.
+1. Comment your code. Comments should explain lines of code and how they are used in your calculations. 
 
 1. The class session after this assignment is due we will have a show and tell so you can all show off what you created!
-
 
 
 ### Stretch Requirements/Challenges (Optional)
