@@ -28,7 +28,7 @@ This tutorial walks your through how to set up a new repository, make commits, a
 1. Your submitted code should be in a new (public) repo on Github.
 1. Your respository should have a minimum of **5 commits**. 
 1. Your repositroy should include a README with the name of your Chat Bot and a description.
-1. Submit the link to your repo on [Gradescope](https://www.gradescope.com/courses/154615/assignments/668306).
+1. Submit the link to your repo on Gradescope.
 1. Create a demo video. The demo should include a walkthrough of your code and demonstration of how your bot working.
 
 ### Assignment Requirements:
