@@ -1,4 +1,4 @@
-# Poetry Slam
+# Poetry Slam 📜
 
 ## Description
 In this project, we will write a Python program to print out poetry backwards, randomly, and any way you can rearrange!
