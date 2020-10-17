@@ -38,17 +38,17 @@ By the end of the course, you will be able to ...
 |  2    |  Mon, Oct 26           | [Data Types and Operations]             |
 |  3    |  Wed, Oct 28           | [Print] & [Input]                       | [Custom Calculator] <br/> due Tuesday, Nov. 3 @ 11pm PDT
 |  -    |  Mon, Nov 2            | **Vote! - Civic Responsibility Break**  | 
-|  4    |  Wed, Nov 4            | [Functions]                             | Functions Tutorial <br/> due Sunday, Nov. 8 @ 11pm PDT
-|  5    |  Mon, Nov 9            | [Conditionals]                          | Quiz 1 <br/> due Friday, Nov. 13 @ 11pm PDT
+|  4    |  Wed, Nov 4            | [Functions]                             | [Functions Tutorial] <br/> due Sunday, Nov. 8 @ 11pm PDT
+|  5    |  Mon, Nov 9            | [Conditionals]                          | [Quiz 1] <br/> due Friday, Nov. 13 @ 11pm PDT
 |  6    |  Wed, Nov 11           | [Pseudocode] & [Lists]                  |
-|  7    |  Mon, Nov 16           | [Loops]                                 | Lists and Loops Tutorial <br/> due Friday, Nov. 20 @ 11pm PDT
-|  8    |  Wed, Nov 18           | [Reading Errors] & [Debugging]          | Quiz 2 <br/> due Sunday, Nov. 22 @ 11pm PDT
+|  7    |  Mon, Nov 16           | [Loops]                                 | [Lists and Loops Tutorial] <br/> due Friday, Nov. 20 @ 11pm PDT
+|  8    |  Wed, Nov 18           | [Reading Errors] & [Debugging]          | [Quiz 2] <br/> due Sunday, Nov. 22 @ 11pm PDT
 |  9    |  Mon, Nov 23           | [File I/O]                              | [Chat Bot] <br/> due Tuesday, Dec. 1 @ 11pm PDT
 |  -    |  Wed, Nov 25           |  **Holiday - Thanksgiving**             | 
-| 10    |  Mon, Nov 30           | [Dictionaries]                          | Quiz 3 <br/> due Friday Dec. 4 @ 11pm PDT
+| 10    |  Mon, Nov 30           | [Dictionaries]                          | [Quiz 3] <br/> due Friday Dec. 4 @ 11pm PDT
 | 11    |  Wed, Dec 2            | [Code Quality]                          | [Poetry Slam] <br/> due Tuesday, Dec. 8 @ 11pm PDT
 | 12    |  Mon, Dec 7            | [Problem Solving]                       | 
-| 13    |  Wed, Dec 9            | Lab                                   |
+| 13    |  Wed, Dec 9            | Lab                                     |
 
 
 [The Adventure Begins]: Lessons/adventure_begins.md
@@ -69,14 +69,14 @@ By the end of the course, you will be able to ...
 [Problem Solving]: Lessons/problem_solving.md
 
 [Custom Calculator]: https://www.gradescope.com/courses/201367/assignments/768668
-[Functions Tutorial]: https://www.gradescope.com/courses/154615/assignments/635836
+[Functions Tutorial]: https://www.gradescope.com/courses/201367/assignments/769069
 [Chat Bot]: https://www.gradescope.com/courses/201367/assignments/768688
-[Lists and Loops Tutorial]: Lessons/chat_bot.md
+[Lists and Loops Tutorial]: https://www.gradescope.com/courses/201367/assignments/769103
 [Poetry Slam]: https://www.gradescope.com/courses/201367/assignments/768689
 
-[Quiz 1]: Lessons/quiz1.md
-[Quiz 2]: Lessons/quiz2.md
-[Quiz 3]: Lessons/quiz3.md
+[Quiz 1]: https://www.gradescope.com/courses/201367/assignments/769102
+[Quiz 2]: https://www.gradescope.com/courses/201367/assignments/769104
+[Quiz 3]: https://www.gradescope.com/courses/201367/assignments/769105
 
 ## Class Assignments
 
