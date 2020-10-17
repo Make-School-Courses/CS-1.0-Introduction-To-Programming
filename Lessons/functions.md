@@ -13,11 +13,6 @@
   * Coding Exercise 2: [**https://repl.it/@MakeSchool/FunctionPractice**](https://repl.it/@MakeSchool/FunctionPractice)
 
   
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/tegyhmmbr)
- * [**Section B**](https://app.peardeck.com/student/toizbwyxn)
- * Section C
- 
 **📖 &nbsp;After Class Review:**
  * **Class Notes:** [Function Class Notes](https://docs.google.com/document/d/1cil0F5FtuPBJbXqvNqUhr34pbd5ovgmVsoOQAh8GUFs/)
 
