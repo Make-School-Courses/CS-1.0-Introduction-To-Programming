@@ -26,6 +26,6 @@
   - [Quiz 2](Lessons/quiz2.md)
   - [Quiz 3](Lessons/quiz3.md)
 
-* [Gradescope](https://www.gradescope.com/courses/154615)
+* [Gradescope](https://www.gradescope.com/courses/201367)
 
 * [Make School](https://www.makeschool.com)
