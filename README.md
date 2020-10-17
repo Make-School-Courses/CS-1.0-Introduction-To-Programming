@@ -70,7 +70,7 @@ By the end of the course, you will be able to ...
 
 [Custom Calculator]: https://www.gradescope.com/courses/201367/assignments/768668
 [Functions Tutorial]: https://www.gradescope.com/courses/154615/assignments/635836
-[Chat Bot]: Lessons/chat_bot.md
+[Chat Bot]: https://www.gradescope.com/courses/201367/assignments/768688
 [Lists and Loops Tutorial]: Lessons/chat_bot.md
 [Poetry Slam]: https://www.gradescope.com/courses/201367/assignments/768689
 
