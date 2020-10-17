@@ -11,11 +11,6 @@
   * Coding Exercise 2: [**https://repl.it/@MakeSchool/VariableExample**](https://repl.it/@MakeSchool/VariableExample)
   * Coding Exercise 3: [**https://repl.it/@MakeSchool/StudentVariableExample**](https://repl.it/@MakeSchool/StudentVariableExample)
   
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/twotocutu)
- * [**Section B**](https://app.peardeck.com/student/tbzfpipod)
- * Section C
- 
 **📖 &nbsp;After Class Review:**
  * **Class Notes:** [**Variables Class Notes**](https://docs.google.com/document/d/1WWzFFG97rWNiUE1y6JkTI2ZXG0lHQOkLFxQns6PLcSU/edit?usp=sharing)
 <!-- > -->
