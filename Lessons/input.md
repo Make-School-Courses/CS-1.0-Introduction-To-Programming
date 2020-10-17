@@ -13,12 +13,7 @@
   * Coding Exercise 2: [**https://repl.it/@MakeSchool/InputPractice**](https://repl.it/@MakeSchool/InputPractice)
   * Coding Exercise 3: [**https://repl.it/@MakeSchool/InputTypeConversion**](https://repl.it/@MakeSchool/InputTypeConversion)
 
-  
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/tbvqheirr)
- * [**Section B**](https://app.peardeck.com/student/tjmjxnugh)
- * Section C
- 
+
 **📖 &nbsp;After Class Review:**
  * **Class Notes:** [Input Class Notes](https://docs.google.com/document/d/1QMZMTihX4GMPSTWp5G5mtlFJKGxbozQBVtlgbcYF5T8/)
 
