@@ -13,11 +13,6 @@
   * Coding Exercise 3: [**https://repl.it/@MakeSchool/PrintYourNameStory**](https://repl.it/@MakeSchool/PrintYourNameStory)
   * Coding Exercise 4: [**https://repl.it/@MakeSchool/fString**](https://repl.it/@MakeSchool/fString)
 
-  
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/tabvflqnc)
- * [**Section B**](https://app.peardeck.com/student/tpbmrfqdl)
- * Section C
  
 **📖 &nbsp;After Class Review:**
  * **Class Notes:** [Print Class Notes](https://docs.google.com/document/d/1DRM8d4thT9tZ9cn4qy8mdVHaJ6XR_LGcm2rDd4TYJG4/)
