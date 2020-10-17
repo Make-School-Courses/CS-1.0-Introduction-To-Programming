@@ -28,7 +28,7 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
-**Class Times:** Monday and Wednesday at 9:30am–12:15pm (13 class sessions)
+**Class Times:** Monday and Wednesday at 9:30am–12:15pm PST (13 class sessions)
 
 
 
