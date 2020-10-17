@@ -12,11 +12,6 @@
   * Coding Exercise 2: [**https://repl.it/@MakeSchool/ArithmeticOperators**](https://repl.it/@MakeSchool/ArithmeticOperators)
   * Coding Exercise 3: [**https://repl.it/@MakeSchool/LetItBe**](https://repl.it/@MakeSchool/LetItBe)
   
-**🍐 &nbsp;Pear Deck Sessions:**
- * [**Section A**](https://app.peardeck.com/student/tujxllhgo)
- * [**Section B**](https://app.peardeck.com/student/ttvzhzngt)
- * Section C
-
 **📖 &nbsp;After Class Review:**
  * **Class Notes:** [Data Types and Operations Class Notes](https://docs.google.com/document/d/1DuaOvmpxZsNWZk1hs6eOr9EkYmR99SamxejT_ZTXjnk/edit?usp=sharing)
 <!-- > -->
