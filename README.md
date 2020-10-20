@@ -93,7 +93,7 @@ To pass this course you must meet the following requirements:
 - Complete all required assignments.
 - Pass all assignments according to the associated assignment rubric.
 - Pass all quizzes with a score 70% or higher. 
-- If an assignment or quiz is not passing, you will need to request an extention to receive a retake/extension to bring you score up to passing.
+- If an assignment or quiz is not passing, you will need to request to receive a retake/extension to bring you score up to passing.
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
 
