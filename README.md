@@ -78,7 +78,7 @@ By the end of the course, you will be able to ...
 [Quiz 2]: https://www.gradescope.com/courses/201367/assignments/769104
 [Quiz 3]: https://www.gradescope.com/courses/201367/assignments/769105
 
-## Class Assignments
+## Assignments Submissions
 
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
