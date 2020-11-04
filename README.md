@@ -36,7 +36,7 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------------------------------------:|
 |  1    |  Wed, Oct 21           | [The Adventure Begins] & [Variables]    | 
 |  2    |  Mon, Oct 26           | [Data Types and Operations]             |
-|  3    |  Wed, Oct 28           | [Print] & [Input]                       | [Custom Calculator] <br/> due Tuesday, Nov. 3 @ 11pm PDT
+|  3    |  Wed, Oct 28           | [Print] & [Input]                       | [Custom Calculator] <br/> due Wednesday, Nov. 4 @ 11pm PDT
 |  -    |  Mon, Nov 2            | **Vote! - Civic Responsibility Break**  | 
 |  4    |  Wed, Nov 4            | [Functions]                             | [Functions Tutorial] <br/> due Sunday, Nov. 8 @ 11pm PDT
 |  5    |  Mon, Nov 9            | [Conditionals]                          | [Quiz 1] <br/> due Friday, Nov. 13 @ 11pm PDT
